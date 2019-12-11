@@ -6,45 +6,45 @@
 */
 
 /* Common */
-"OK" = "OK";
-"Cancel" = "Cancel";
-"Yes" = "Yes";
-"No" = "No";
-"Close" = "Close";
-"Select" = "Select";
-"Continue" = "Continue";
-"Learn More…" = "Learn More…";
+"OK" = "Добре";
+"Cancel" = "Откажи";
+"Yes" = "Да";
+"No" = "Не";
+"Close" = "Затвори";
+"Select" = "Избери";
+"Continue" = "Продължи";
+"Learn More…" = "Научи повече…";
 "Untitled" = "Untitled";
-"Undo" = "Undo";
-"Dismiss" = "Dismiss";
-"Confirm" = "Confirm";
-"Error" = "Error";
+"Undo" = "Назад";
+"Dismiss" = "Откажи";
+"Confirm" = "Потвърди";
+"Error" = "Грешка";
 
 /* Search Panel */
-"Search" = "Search";
-"Replace" = "Replace";
-"All" = "All";
+"Search" = "Търси";
+"Replace" = "Замени";
+"All" = "Всичко";
 "Search text not found in article" = "Search text not found in article";
 "search text" = "search text";
 
 /* Quick Open */
-"Search by file name" = "Search by file name";
-"Searching" = "Searching";
-"Gathering more results" = "Gathering more results";
+"Search by file name" = "Търси по име на файл";
+"Searching" = "Търсене";
+"Gathering more results" = "Събиране на повече резултати";
 
 /* Tables */
-"Insert Table" = "Insert Table";
-"Columns" = "Columns";
-"Rows" = "Rows";
-"Align Left" = "Align Left";
-"Align Center" = "Align Center";
-"Align Right" = "Align Right";
-"Resize Table" = "Resize Table";
-"Delete Table" = "Delete Table";
+"Insert Table" = "Вмъкни Таблица";
+"Columns" = "Колони";
+"Rows" = "Редове";
+"Align Left" = "Приравни на ляво";
+"Align Center" = "Приравни центрирано";
+"Align Right" = "Приравни на дясно";
+"Resize Table" = "Преоразмери Таблица";
+"Delete Table" = "Изтрии Таблица";
 
 /* Images */
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?" = "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting or global preferences. But the target folder does not exist, create it now?";
-"Create Folder" = "Create Folder";
+"Create Folder" = "Съждай папка";
 
 /* Math */
 "Edit" = "Edit";
