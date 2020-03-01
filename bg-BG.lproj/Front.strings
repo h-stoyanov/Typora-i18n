@@ -52,33 +52,33 @@
 "Preview" = "Преглед";
 
 /* Sidebar */
-"Articles" = "Articles";
+"Articles" = "Статии";
 "Outline" = "Outline";
-"Files" = "Files";
+"Files" = "Файлове";
 "Switch to File List view" = "Switch to File List view";
 "Switch to File Tree view" = "Switch to File Tree view";
 "Switch to Outline view" = "Switch to Outline view";
 "Close sidebar" = "Close sidebar";
-"Loading" = "Loading";
+"Loading" = "Зареждане";
 "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance.";
-"New File" = "New File";
+"New File" = "Нов Файл";
 "Unpin Outline Panel" = "Unpin Outline Panel";
-"Open Folder..." = "Open Folder...";
+"Open Folder..." = "Отвори папка...";
 "Action" = "Action";
 "Close Sidebar Menu" = "Close Sidebar Menu";
 "Reveal in Finder" = "Reveal in Finder";
 "Reveal in File Explorer" = "Reveal in File Explorer";
 "Refresh Folder" = "Refresh Folder";
 "Sort" = "Сортиране";
-"Group By Folder" = "Group By Folder";
+"Group By Folder" = "Гропиране по Папка";
 "Sort Naturally" = "Sort Naturally";
 "Sort by Name (Ascending)" = "Sort by Name (Ascending)";
 "Sort by Modification Date (Ascending)" = "Sort by Modification Date (Ascending)";
 "Sort by Name (Descending)" = "Sort by Name (Descending)";
 "Sort by Modification Date (Descending)" = "Sort by Modification Date (Descending)";
-"Location" = "Location";
+"Location" = "Локация";
 "Switch File List/Tree View" = "Switch File List/Tree View";
-"No Files Available" = "No Files Available";
+"No Files Available" = "Няма налични файлове";
 "No Folder is Opened." = "No Folder is Opened.";
 "Outline is Empty." = "Outline is Empty.";
 
@@ -102,8 +102,8 @@
 "Folder does not exist at %@" = "Folder does not exist at %@";
 "File with the same name already exists at target path" = "File with the same name already exists at target path";
 "Apply to All" = "Apply to All";
-"Overwrite" = "Overwrite";
-"Stop" = "Stop";
+"Overwrite" = "Презапиши";
+"Stop" = "Стоп";
 "back to document" = "back to document";
 "Failed to load file" = "Failed to load file";
 "Save File Failed!" = "Save File Failed!";
@@ -124,17 +124,17 @@
 "Saved" = "Saved";
 
 /* place holder in find & replace input */
-"search text" = "search text";
-"replace with" = "replace with";
+"search text" = "търси текст";
+"replace with" = "замени с";
 /* search option */
 "Case Sensitive" = "Case Sensitive";
-"Whole Word" = "Whole Word";
+"Whole Word" = "Цяла Дума";
 
 "input image URL" = "input image URL";
 "Select image from local file" = "Select image from local file";
 "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?" = "Cannot open location <code>$1</code>, do you mean <a href='https://$3'>https://$2</a> ?";
 
-"select a language" = "select a language";
+"select a language" = "избери език";
 "Finish Editing" = "Finish Editing";
 
 "Revert advanced setting file to default one ?" = "Revert advanced setting file to default one ?";
@@ -142,11 +142,11 @@
 "Select Spell Check Language" = "Select Spell Check Language";
 "Auto Detect Language" = "Auto Detect Language";
 "Disable Spell Check" = "Disable Spell Check";
-"Global Setting…" = "Global Setting…";
+"Global Setting…" = "Глобални Настройки…";
 "Dictionary file is missing to enable spellcheck support for %@." = "Dictionary file is missing to enable spellcheck support for %@.";
 "Install Language Support" = "Install Language Support";
 "License Information" = "License Information";
-"Download" = "Download";
+"Download" = "Свали";
 "Install dictionary file only for Typora" = "Install dictionary file only for Typora";
 "Spell Check (%@ unavailable)" = "Spell Check (%@ unavailable)";
 "Spell Check (%@ downloading)" = "Spell Check (%@ downloading)";
@@ -156,15 +156,15 @@
 
 "<strong>%@</strong> has been turned on." = "<strong>%@</strong> has been turned on.";
 "You could turn it off from `View` menu." = "You could turn it off from `View` menu.";
-"The file is too large to render in Typora." = "The file is too large to render in Typora.";
-"Open in…" = "Open in…";
+"The file is too large to render in Typora." = "Файлът е прекалено голям за да се изобрази в Typora.";
+"Open in…" = "Отвори в…";
 "Quick Look" = "Quick Look";
 
-"Filter" = "Filter";
-"No result found." = "No result found.";
-"Continue & Overwrite" = "Continue & Overwrite";
+"Filter" = "Филтър";
+"No result found." = "Не е намерен резултат.";
+"Continue & Overwrite" = "Продължи & Презапиши";
 "The file is read-only, or you do not have right permissions to modify the file." = "The file is read-only, or you do not have right permissions to modify the file.";
 
 "Learn Data Recovery" = "Learn Data Recovery";
 "Auto refresh on Files Panel cannot be enabled." = "Auto refresh on Files Panel cannot be enabled.";
-"Delete Permanently" = "Delete Permanently";
+"Delete Permanently" = "Изтрий Перманентно";
