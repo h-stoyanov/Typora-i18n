@@ -75,7 +75,6 @@
 "Upload Local Images via iPic" = "Upload Local Images via iPic";
 "When Insert Local Image" = "When Insert Local Image";
 "Copy Image File to Folder" = "Copy Image File to Folder";
-"Upload Image via iPic" = "Upload Image via iPic";
 "Use Image Root Path" = "Use Image Root Path";
 "Line Endings" = "Line Endings";
 "Windows Line Endings (CRLF)" = "Windows Line Endings (CRLF)";
@@ -238,7 +237,6 @@
 "Copy '%@'" = "Copy '%@'";
 "Copy to %@" = "Copy to %@";
 "Copy Image to" = "Copy Image to";
-"Upload via iPic" = "Upload via iPic";
 "Open Image Location" = "Open Image Location";
 
 "Learn More" = "Learn More";
@@ -291,3 +289,18 @@
 "Start Speaking" = "Start Speaking";
 "Stop Speaking" = "Stop Speaking";
 "Check Updates" = "Check Updates";
+
+"HTML (without Styles)" = "HTML (without Styles)";
+
+"Highlight Current Header" = "Highlight Current Header";
+"Expand All" = "Expand All";
+"Collapse All" = "Collapse All";
+"Collapsible Outline" = "Collapsible Outline";
+"Flat Outline" = "Flat Outline";
+"Articles (List View)" = "Articles (List View)";
+"File Tree (Tree View)" = "File Tree (Tree View)";
+"Filter" = "Filter";
+
+"Upload Image" = "Upload Image";
+"Upload All Local Images" = "Upload All Local Images";
+"Open Image in Browser" = "Open Image in Browser";
